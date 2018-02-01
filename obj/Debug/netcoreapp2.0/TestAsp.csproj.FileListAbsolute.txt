@@ -1,0 +1,10 @@
+/root/testgit/bin/Debug/netcoreapp2.0/TestAsp.deps.json
+/root/testgit/bin/Debug/netcoreapp2.0/TestAsp.runtimeconfig.json
+/root/testgit/bin/Debug/netcoreapp2.0/TestAsp.runtimeconfig.dev.json
+/root/testgit/bin/Debug/netcoreapp2.0/TestAsp.dll
+/root/testgit/bin/Debug/netcoreapp2.0/TestAsp.pdb
+/root/testgit/obj/Debug/netcoreapp2.0/TestAsp.csproj.CoreCompileInputs.cache
+/root/testgit/obj/Debug/netcoreapp2.0/TestAsp.AssemblyInfoInputs.cache
+/root/testgit/obj/Debug/netcoreapp2.0/TestAsp.AssemblyInfo.cs
+/root/testgit/obj/Debug/netcoreapp2.0/TestAsp.dll
+/root/testgit/obj/Debug/netcoreapp2.0/TestAsp.pdb

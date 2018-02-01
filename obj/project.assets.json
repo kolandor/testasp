@@ -12533,23 +12533,23 @@
     ]
   },
   "packageFolders": {
-    "/home/parallels/.nuget/packages/": {},
+    "/root/.nuget/packages/": {},
     "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/parallels/Documents/projects/TestAsp/TestAsp.csproj",
+      "projectUniqueName": "/root/testgit/TestAsp.csproj",
       "projectName": "TestAsp",
-      "projectPath": "/home/parallels/Documents/projects/TestAsp/TestAsp.csproj",
-      "packagesPath": "/home/parallels/.nuget/packages/",
-      "outputPath": "/home/parallels/Documents/projects/TestAsp/obj/",
+      "projectPath": "/root/testgit/TestAsp.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/root/testgit/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/parallels/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
